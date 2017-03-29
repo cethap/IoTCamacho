@@ -1,0 +1,12 @@
+{
+      "apps" : [
+      {
+        "name"        : "multiplex",
+        "script"      : "./plugin/multiplex",
+        "args"        : [],
+        "log_date_format"  : "YYYY-MM-DD HH:mm Z",
+        "cwd": "/home/pi/Desktop/reveal.js/"
+      }
+     ]
+}
+
